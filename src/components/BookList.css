@@ -1,0 +1,14 @@
+.BookList {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.BookList ul {
+  padding: 0;
+  list-style-type: none;
+}
+.BookList ul li {
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 100px;
+}

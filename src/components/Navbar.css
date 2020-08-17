@@ -1,0 +1,18 @@
+.Navbar {
+  padding: 25px;
+  border-bottom: 1px solid gray;
+}
+
+.Navbar h1 {
+  margin: 15px 0;
+  font-weight: 400;
+}
+
+.Navbar ul {
+  padding: 0;
+}
+
+.Navbar ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
